@@ -286,7 +286,7 @@ function renderHeader() {
         <div class="header__actions">
           <button class="btn-ghost" data-action="toggle-theme">${state.theme === 'light' ? 'Dark' : 'Light'} Mode</button>
           <div class="badge">${state.currentUser.role}</div>
-          <img src="${state.currentUser.avatar}" alt="avatar" class="avatar" />
+          <img src="${state.currentUser.avatar}" alt="avatar" class="avatar" onerror="this.onerror=null;this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2240%22 height=%2240%22%3E%3Ccircle cx=%2220%22 cy=%2220%22 r=%2218%22 fill=%22%23e11d48%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 fill=%22white%22 font-size=%2216%22 font-weight=%22bold%22%3E${state.currentUser.name.charAt(0)}%3C/text%3E%3C/svg%3E';" />
           <button class="btn-ghost" data-action="logout">Logout</button>
         </div>
       </div>
