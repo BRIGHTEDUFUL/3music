@@ -23,7 +23,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-101',
     title: 'Black Sherif - Kilos Milos (Official Video Final Cut)',
-    url: 'https://images.unsplash.com/photo-1493225255756-d9584f8606e9?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=1',
     type: 'video',
     tags: ['black sherif', 'music video', 'konongo zongo', 'afrobeats', 'highlife'],
     description: 'Final graded version of the Kilos Milos music video ready for broadcast on 3Music TV.',
@@ -36,7 +36,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-102',
     title: 'Accra Independence Square - Drone Footage Raw',
-    url: 'https://images.unsplash.com/photo-1543169865-c8b544d6db8b?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=2',
     type: 'video',
     tags: ['accra', 'drone', 'b-roll', 'independence square', 'ghana', 'stock'],
     description: 'Unedited 4K aerial shots of Black Star Square for the "Visit Ghana" campaign documentary.',
@@ -49,7 +49,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-103',
     title: 'Sarkodie - Rapperholic 2024 Promo Poster',
-    url: 'https://images.unsplash.com/photo-1514525253440-b393452e27e9?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=3',
     type: 'image',
     tags: ['sarkodie', 'rapperholic', 'concert', 'marketing', 'grand arena'],
     description: 'High-res poster for social media and billboards. Needs final approval from Sarkess Music.',
@@ -62,7 +62,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-104',
     title: 'Strategic Partnership - 3Media x Joy Prime',
-    url: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=4',
     type: 'document',
     tags: ['contract', 'partnership', 'legal', 'restricted', 'media'],
     description: 'Signed MOU regarding content syndication between 3Media Networks and Joy Prime.',
@@ -75,7 +75,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-105',
     title: 'Chale Wote Street Art Festival - Coverage Plan',
-    url: 'https://images.unsplash.com/photo-1572914857229-37bf6ee84063?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=5',
     type: 'document',
     tags: ['chale wote', 'jamestown', 'events', 'production', 'schedule'],
     description: 'Logistics and crew deployment schedule for the upcoming Chale Wote festival in Jamestown.',
@@ -88,7 +88,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-106',
     title: 'Ghana Jollof vs Naija Jollof - Cookout Banner',
-    url: 'https://images.unsplash.com/photo-1604328698692-f76ea9498e76?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=6',
     type: 'image',
     tags: ['food', 'jollof', 'culture', 'social media', 'engagement'],
     description: 'Web banner for the Independence Day food rivalry segment.',
@@ -101,7 +101,7 @@ const INITIAL_ASSETS = [
   {
     id: 'ast-107',
     title: '3Music Awards 2025 - Stage Design Render',
-    url: 'https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?q=80&w=1000&auto=format&fit=crop',
+    url: 'https://picsum.photos/400/250?random=7',
     type: 'image',
     tags: ['3music', 'awards', 'stage', 'production', 'design'],
     description: '3D visualization of the new stage layout at Grand Arena.',
